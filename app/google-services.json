@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "343699371821",
+    "project_id": "apper-emergency-app",
+    "storage_bucket": "apper-emergency-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343699371821:android:44d2df045ae39446ef85a4",
+        "android_client_info": {
+          "package_name": "ph.apper.cabote.talan.emergency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343699371821-tepdc9nrhj1pdfb4khilq0hg8nu2obra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ph.apper.cabote.talan.emergency",
+            "certificate_hash": "1b2b722325066fd9952f485963f5ecbcdf93642f"
+          }
+        },
+        {
+          "client_id": "343699371821-n0rc7pg838piocpd8h33amkd89fj1lke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-S23w_wcvM8Kg79CIJoH5Wopxmwk4pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343699371821-n0rc7pg838piocpd8h33amkd89fj1lke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
